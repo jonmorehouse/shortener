@@ -1,1 +1,1 @@
-eval `goop env`; clear; go build; ./shortener
+eval `goop env`; clear; go test

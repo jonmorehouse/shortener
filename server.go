@@ -7,6 +7,10 @@ import (
   "os"
 )
 
+func p(input interface{}) {
+  fmt.Println(input)
+}
+
 func init() {
   linkInit()
 }

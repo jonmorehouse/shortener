@@ -45,7 +45,7 @@ func linkInit() {
 
 // create a short link
 func CreateLink(destination string) *Link {
-
+  
 
   return nil
 }
